@@ -106,7 +106,7 @@ This mirrors how **backend + AI systems** are designed in production.
 - Sensor handling  
 - Safety logic  
 
-⬇
+⬇ PWM Generation 
 
 **Motor Drivers → DC Motors**
 
