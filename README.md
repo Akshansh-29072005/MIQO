@@ -153,7 +153,7 @@ This separation closely resembles **backend control plane vs execution plane** a
 | Line-following accuracy | ~100% |
 | Path replay accuracy | ~90% |
 | Load capacity | Up to 5 kg |
-| Human effort reduction | ~50% |
+| Human effort reduction | ~95% |
 | Motion stability | Smooth, indoor-safe |
 
 ---
